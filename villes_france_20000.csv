@@ -1,0 +1,485 @@
+nom_standard,population,dep_nom,reg_nom,latitude_mairie,longitude_mairie
+Paris,2103778,Paris,Île-de-France,48.857,2.352
+Marseille,886040,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,43.296,5.37
+Lyon,519127,Rhône,Auvergne-Rhône-Alpes,45.764,4.836
+Toulouse,514819,Haute-Garonne,Occitanie,43.605,1.444
+Nice,357737,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,43.696,7.272
+Nantes,327734,Loire-Atlantique,Pays de la Loire,47.218,-1.554
+Montpellier,310240,Hérault,Occitanie,43.598,3.897
+Strasbourg,293771,Bas-Rhin,Grand Est,48.573,7.752
+Bordeaux,267991,Gironde,Nouvelle-Aquitaine,44.838,-0.579
+Lille,238246,Nord,Hauts-de-France,50.63,3.071
+Rennes,230890,Ille-et-Vilaine,Bretagne,48.112,-1.68
+Toulon,179116,Var,Provence-Alpes-Côte d'Azur,43.12,5.932
+Reims,177674,Marne,Grand Est,49.258,4.031
+Saint-Étienne,173136,Loire,Auvergne-Rhône-Alpes,45.44,4.387
+Le Havre,166687,Seine-Maritime,Normandie,49.494,0.108
+Villeurbanne,163684,Rhône,Auvergne-Rhône-Alpes,45.766,4.88
+Dijon,161830,Côte-d'Or,Bourgogne-Franche-Comté,47.322,5.042
+Angers,159022,Maine-et-Loire,Pays de la Loire,47.471,-0.548
+Grenoble,156140,Isère,Auvergne-Rhône-Alpes,45.186,5.736
+Saint-Denis,155634,La Réunion,La Réunion,-20.879,55.448
+Nîmes,151839,Gard,Occitanie,43.837,4.36
+Aix-en-Provence,149695,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,43.53,5.447
+Saint-Denis,149077,Seine-Saint-Denis,Île-de-France,48.936,2.358
+Clermont-Ferrand,146351,Puy-de-Dôme,Auvergne-Rhône-Alpes,45.78,3.086
+Le Mans,146249,Sarthe,Pays de la Loire,48.008,0.197
+Brest,142346,Finistère,Bretagne,48.391,-4.485
+Tours,139259,Indre-et-Loire,Centre-Val de Loire,47.391,0.69
+Amiens,136449,Somme,Hauts-de-France,49.894,2.296
+Annecy,132117,Haute-Savoie,Auvergne-Rhône-Alpes,45.899,6.129
+Limoges,129937,Haute-Vienne,Nouvelle-Aquitaine,45.826,1.26
+Metz,122572,Moselle,Grand Est,49.12,6.176
+Perpignan,121616,Pyrénées-Orientales,Occitanie,42.699,2.894
+Boulogne-Billancourt,119019,Hauts-de-Seine,Île-de-France,48.836,2.241
+Besançon,118489,Doubs,Bourgogne-Franche-Comté,47.238,6.024
+Rouen,117662,Seine-Maritime,Normandie,49.444,1.1
+Orléans,116357,Loiret,Centre-Val de Loire,47.903,1.909
+Montreuil,111934,Seine-Saint-Denis,Île-de-France,48.862,2.441
+Caen,109400,Calvados,Normandie,49.181,-0.373
+Saint-Paul,108088,La Réunion,La Réunion,-21.01,55.27
+Argenteuil,106130,Val-d'Oise,Île-de-France,48.948,2.249
+Mulhouse,104978,Haut-Rhin,Grand Est,47.75,7.336
+Nancy,103671,Meurthe-et-Moselle,Grand Est,48.693,6.184
+Tourcoing,98772,Nord,Hauts-de-France,50.724,3.161
+Roubaix,98286,Nord,Hauts-de-France,50.691,3.174
+Nanterre,97783,Hauts-de-Seine,Île-de-France,48.892,2.207
+Vitry-sur-Seine,93963,Val-de-Marne,Île-de-France,48.789,2.388
+Asnières-sur-Seine,93941,Hauts-de-Seine,Île-de-France,48.911,2.289
+Créteil,93397,Val-de-Marne,Île-de-France,48.778,2.453
+Avignon,92188,Vaucluse,Provence-Alpes-Côte d'Azur,43.949,4.805
+Colombes,91053,Hauts-de-Seine,Île-de-France,48.922,2.254
+Poitiers,89916,Vienne,Nouvelle-Aquitaine,46.58,0.341
+Aubervilliers,88365,Seine-Saint-Denis,Île-de-France,48.915,2.382
+Aulnay-sous-Bois,87599,Seine-Saint-Denis,Île-de-France,48.934,2.5
+Dunkerque,86263,Nord,Hauts-de-France,51.038,2.377
+Saint-Pierre,85038,La Réunion,La Réunion,-21.342,55.478
+Versailles,84095,Yvelines,Île-de-France,48.801,2.13
+Courbevoie,82902,Hauts-de-Seine,Île-de-France,48.895,2.255
+Rueil-Malmaison,82874,Hauts-de-Seine,Île-de-France,48.878,2.181
+Le Tampon,82579,La Réunion,La Réunion,-21.278,55.515
+Béziers,81545,Hérault,Occitanie,43.343,3.214
+Pau,80441,Pyrénées-Atlantiques,Nouvelle-Aquitaine,43.295,-0.371
+La Rochelle,79851,Charente-Maritime,Nouvelle-Aquitaine,46.16,-1.151
+Cherbourg-en-Cotentin,78258,Manche,Normandie,49.642,-1.624
+Mérignac,78090,Gironde,Nouvelle-Aquitaine,44.845,-0.656
+Champigny-sur-Marne,78072,Val-de-Marne,Île-de-France,48.813,2.511
+Antibes,77637,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,43.581,7.128
+Saint-Maur-des-Fossés,76572,Val-de-Marne,Île-de-France,48.803,2.485
+Ajaccio,76320,Corse-du-Sud,Corse,41.919,8.739
+Fort-de-France,75506,Martinique,Martinique,14.607,-61.07
+Saint-Nazaire,74568,Loire-Atlantique,Pays de la Loire,47.273,-2.214
+Cannes,74350,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,43.551,7.013
+Noisy-le-Grand,72978,Seine-Saint-Denis,Île-de-France,48.849,2.552
+Drancy,72390,Seine-Saint-Denis,Île-de-France,48.923,2.445
+Mamoudzou,71437,Mayotte,Mayotte,-12.781,45.232
+Cergy,70906,Val-d'Oise,Île-de-France,49.052,2.035
+Levallois-Perret,68092,Hauts-de-Seine,Île-de-France,48.893,2.288
+Issy-les-Moulineaux,67669,Hauts-de-Seine,Île-de-France,48.824,2.274
+Calais,67571,Pas-de-Calais,Hauts-de-France,50.953,1.855
+Pessac,67339,Gironde,Nouvelle-Aquitaine,44.806,-0.63
+Colmar,66970,Haut-Rhin,Grand Est,48.079,7.358
+Évry-Courcouronnes,66919,Essonne,Île-de-France,48.624,2.429
+Vénissieux,65502,Rhône,Auvergne-Rhône-Alpes,45.697,4.886
+Ivry-sur-Seine,65064,Val-de-Marne,Île-de-France,48.812,2.388
+Valence,64458,Drôme,Auvergne-Rhône-Alpes,44.933,4.892
+Clichy,64410,Hauts-de-Seine,Île-de-France,48.903,2.305
+Quimper,64385,Finistère,Bretagne,47.996,-4.102
+Antony,64263,Hauts-de-Seine,Île-de-France,48.754,2.296
+Bourges,64186,Cher,Centre-Val de Loire,47.081,2.399
+La Seyne-sur-Mer,63732,Var,Provence-Alpes-Côte d'Azur,43.102,5.881
+Montauban,62945,Tarn-et-Garonne,Occitanie,44.016,1.353
+Villeneuve-d'Ascq,62868,Nord,Hauts-de-France,50.62,3.132
+Cayenne,62675,Guyane,Guyane,4.938,-52.335
+Le Blanc-Mesnil,62376,Seine-Saint-Denis,Île-de-France,48.939,2.464
+Troyes,62088,Aube,Grand Est,48.298,4.074
+Pantin,61929,Seine-Saint-Denis,Île-de-France,48.897,2.401
+Villejuif,60183,Val-de-Marne,Île-de-France,48.792,2.363
+Chambéry,59964,Savoie,Auvergne-Rhône-Alpes,45.566,5.921
+Niort,59854,Deux-Sèvres,Nouvelle-Aquitaine,46.324,-0.465
+Fréjus,59719,Var,Provence-Alpes-Côte d'Azur,43.433,6.737
+Neuilly-sur-Seine,59538,Hauts-de-Seine,Île-de-France,48.885,2.27
+Sarcelles,59173,Val-d'Oise,Île-de-France,48.997,2.378
+Saint-André,58885,La Réunion,La Réunion,-20.96,55.65
+Clamart,58576,Hauts-de-Seine,Île-de-France,48.801,2.263
+Lorient,58329,Morbihan,Bretagne,47.748,-3.366
+Narbonne,57587,Aude,Occitanie,43.184,3.004
+Bobigny,56927,Seine-Saint-Denis,Île-de-France,48.906,2.445
+Meaux,56905,Seine-et-Marne,Île-de-France,48.958,2.878
+Maisons-Alfort,56799,Val-de-Marne,Île-de-France,48.801,2.431
+Hyères,55858,Var,Provence-Alpes-Côte d'Azur,43.12,6.13
+Vannes,55790,Morbihan,Bretagne,47.658,-2.761
+Beauvais,55550,Oise,Hauts-de-France,49.43,2.082
+Saint-Louis,54941,La Réunion,La Réunion,-21.287,55.409
+La Roche-sur-Yon,54849,Vendée,Pays de la Loire,46.67,-1.429
+Chelles,54620,Seine-et-Marne,Île-de-France,48.878,2.59
+Corbeil-Essonnes,54471,Essonne,Île-de-France,48.614,2.482
+Saint-Laurent-du-Maroni,54429,Guyane,Guyane,5.504,-54.029
+Cholet,54404,Maine-et-Loire,Pays de la Loire,47.059,-0.879
+Bayonne,54306,Pyrénées-Atlantiques,Nouvelle-Aquitaine,43.493,-1.475
+Fontenay-sous-Bois,53757,Val-de-Marne,Île-de-France,48.849,2.475
+Saint-Ouen-sur-Seine,53615,Seine-Saint-Denis,Île-de-France,48.912,2.334
+Cagnes-sur-Mer,53354,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,43.664,7.149
+Vaulx-en-Velin,53069,Rhône,Auvergne-Rhône-Alpes,45.779,4.92
+Épinay-sur-Seine,52833,Seine-Saint-Denis,Île-de-France,48.952,2.313
+Saint-Quentin,52813,Aisne,Hauts-de-France,49.847,3.287
+Sartrouville,52763,Yvelines,Île-de-France,48.941,2.158
+Sevran,52535,Seine-Saint-Denis,Île-de-France,48.94,2.526
+Arles,51811,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,43.677,4.627
+Massy,51729,Essonne,Île-de-France,48.731,2.271
+Albi,51290,Tarn,Occitanie,43.927,2.146
+Les Abymes,51055,Guadeloupe,Guadeloupe,16.271,-61.505
+Gennevilliers,50979,Hauts-de-Seine,Île-de-France,48.926,2.293
+Saint-Herblain,50973,Loire-Atlantique,Pays de la Loire,47.211,-1.648
+Grasse,50970,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,43.658,6.925
+Bondy,50595,Seine-Saint-Denis,Île-de-France,48.902,2.481
+Les Sables-d'Olonne,49603,Vendée,Pays de la Loire,46.497,-1.784
+Laval,49400,Mayenne,Pays de la Loire,48.071,-0.774
+Évreux,49360,Eure,Normandie,49.027,1.152
+Saint-Priest,49229,Rhône,Auvergne-Rhône-Alpes,45.695,4.936
+Suresnes,48956,Hauts-de-Seine,Île-de-France,48.871,2.225
+Martigues,48298,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,43.406,5.048
+Vincennes,48193,Val-de-Marne,Île-de-France,48.848,2.44
+Aubagne,47529,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,43.292,5.57
+Saint-Malo,47439,Ille-et-Vilaine,Bretagne,48.652,-2.023
+Livry-Gargan,47228,Seine-Saint-Denis,Île-de-France,48.919,2.536
+Blois,47219,Loir-et-Cher,Centre-Val de Loire,47.589,1.337
+Rosny-sous-Bois,47180,Seine-Saint-Denis,Île-de-France,48.872,2.488
+La Courneuve,47167,Seine-Saint-Denis,Île-de-France,48.927,2.39
+Brive-la-Gaillarde,47095,Corrèze,Nouvelle-Aquitaine,45.16,1.534
+Bastia,46867,Haute-Corse,Corse,42.702,9.452
+Talence,46338,Gironde,Nouvelle-Aquitaine,44.808,-0.589
+Meudon,46334,Hauts-de-Seine,Île-de-France,48.813,2.239
+Montrouge,46324,Hauts-de-Seine,Île-de-France,48.819,2.32
+Alès,46125,Gard,Occitanie,44.125,4.077
+Carcassonne,46080,Aude,Occitanie,43.212,2.353
+Melun,45995,Seine-et-Marne,Île-de-France,48.54,2.661
+Choisy-le-Roi,45946,Val-de-Marne,Île-de-France,48.762,2.41
+Saint-Germain-en-Laye,45931,Yvelines,Île-de-France,48.899,2.094
+Belfort,45912,Territoire de Belfort,Bourgogne-Franche-Comté,47.638,6.863
+Charleville-Mézières,45560,Ardennes,Grand Est,49.76,4.72
+Alfortville,45531,Val-de-Marne,Île-de-France,48.805,2.42
+Noisy-le-Sec,45510,Seine-Saint-Denis,Île-de-France,48.89,2.452
+Sète,45337,Hérault,Occitanie,43.402,3.696
+Chalon-sur-Saône,45102,Saône-et-Loire,Bourgogne-Franche-Comté,46.781,4.854
+Bagneux,44572,Hauts-de-Seine,Île-de-France,48.799,2.304
+Tarbes,44399,Hautes-Pyrénées,Occitanie,43.233,0.078
+Saint-Brieuc,44364,Côtes-d'Armor,Bretagne,48.514,-2.764
+Istres,44292,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,43.517,4.99
+Salon-de-Provence,44194,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,43.641,5.099
+Puteaux,44002,Hauts-de-Seine,Île-de-France,48.884,2.238
+Caluire-et-Cuire,43597,Rhône,Auvergne-Rhône-Alpes,45.797,4.842
+Rezé,43556,Loire-Atlantique,Pays de la Loire,47.191,-1.569
+Mantes-la-Jolie,43526,Yvelines,Île-de-France,48.989,1.715
+Valenciennes,43468,Nord,Hauts-de-France,50.358,3.524
+Anglet,43271,Pyrénées-Atlantiques,Nouvelle-Aquitaine,43.481,-1.515
+Bagnolet,43086,Seine-Saint-Denis,Île-de-France,48.869,2.416
+Bron,42982,Rhône,Auvergne-Rhône-Alpes,45.734,4.909
+Châlons-en-Champagne,42971,Marne,Grand Est,48.956,4.363
+Châteauroux,42963,Indre,Centre-Val de Loire,46.811,1.691
+Arras,42875,Pas-de-Calais,Hauts-de-France,50.293,2.779
+Thionville,42658,Moselle,Grand Est,49.358,6.168
+Villenave-d'Ornon,42545,Gironde,Nouvelle-Aquitaine,44.783,-0.572
+Castres,42505,Tarn,Occitanie,43.604,2.242
+Bourg-en-Bresse,42372,Ain,Auvergne-Rhône-Alpes,46.205,5.225
+Gagny,42313,Seine-Saint-Denis,Île-de-France,48.885,2.537
+Le Cannet,41938,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,43.577,7.019
+Angoulême,41908,Charente,Nouvelle-Aquitaine,45.648,0.156
+Garges-lès-Gonesse,41791,Val-d'Oise,Île-de-France,48.972,2.401
+Villepinte,41470,Seine-Saint-Denis,Île-de-France,48.964,2.534
+Stains,41388,Seine-Saint-Denis,Île-de-France,48.955,2.382
+Gap,41293,Hautes-Alpes,Provence-Alpes-Côte d'Azur,44.559,6.08
+Poissy,40983,Yvelines,Île-de-France,48.927,2.043
+Colomiers,40882,Haute-Garonne,Occitanie,43.611,1.335
+Wattrelos,40847,Nord,Hauts-de-France,50.702,3.216
+Draguignan,40826,Var,Provence-Alpes-Côte d'Azur,43.538,6.463
+Compiègne,40761,Oise,Hauts-de-France,49.418,2.826
+Montélimar,40595,Drôme,Auvergne-Rhône-Alpes,44.557,4.75
+Boulogne-sur-Mer,40539,Pas-de-Calais,Hauts-de-France,50.725,1.613
+Douai,40250,Nord,Hauts-de-France,50.368,3.08
+Marcq-en-Barœul,40184,Nord,Hauts-de-France,50.673,3.094
+Neuilly-sur-Marne,39800,Seine-Saint-Denis,Île-de-France,48.857,2.528
+Le Lamentin,39400,Martinique,Martinique,14.615,-61.004
+Saint-Joseph,39207,La Réunion,La Réunion,-21.379,55.619
+Pontault-Combault,39096,Seine-et-Marne,Île-de-France,48.802,2.608
+Saint-Benoît,38604,La Réunion,La Réunion,-21.034,55.713
+La Ciotat,38477,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,43.174,5.605
+Joué-lès-Tours,38423,Indre-et-Loire,Centre-Val de Loire,47.351,0.662
+Tremblay-en-France,38348,Seine-Saint-Denis,Île-de-France,48.951,2.571
+Chartres,38324,Eure-et-Loir,Centre-Val de Loire,48.444,1.489
+Oullins,38168,Rhône,Auvergne-Rhône-Alpes,45.714,4.807
+Thonon-les-Bains,37928,Haute-Savoie,Auvergne-Rhône-Alpes,46.373,6.478
+Franconville,37754,Val-d'Oise,Île-de-France,48.986,2.23
+Saint-Martin-d'Hères,37695,Isère,Auvergne-Rhône-Alpes,45.184,5.755
+Annemasse,37628,Haute-Savoie,Auvergne-Rhône-Alpes,46.193,6.234
+Savigny-sur-Orge,37601,Essonne,Île-de-France,48.68,2.346
+Échirolles,37491,Isère,Auvergne-Rhône-Alpes,45.148,5.717
+Palaiseau,37471,Essonne,Île-de-France,48.715,2.246
+Romainville,37152,Seine-Saint-Denis,Île-de-France,48.886,2.435
+Saint-Raphaël,37113,Var,Provence-Alpes-Côte d'Azur,43.425,6.768
+Six-Fours-les-Plages,37109,Var,Provence-Alpes-Côte d'Azur,43.093,5.839
+Sainte-Marie,37093,La Réunion,La Réunion,-20.897,55.549
+Conflans-Sainte-Honorine,36958,Yvelines,Île-de-France,48.994,2.095
+Vitrolles,36758,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,43.448,5.25
+Châtillon,36705,Hauts-de-Seine,Île-de-France,48.8,2.29
+Meyzieu,36687,Rhône,Auvergne-Rhône-Alpes,45.765,5.005
+Athis-Mons,36613,Essonne,Île-de-France,48.708,2.389
+La Possession,36568,La Réunion,La Réunion,-20.926,55.336
+Matoury,36512,Guyane,Guyane,4.85,-52.331
+Bezons,36434,Val-d'Oise,Île-de-France,48.928,2.216
+Haguenau,36391,Bas-Rhin,Grand Est,48.817,7.788
+Creil,36301,Oise,Hauts-de-France,49.261,2.473
+Villeneuve-Saint-Georges,36221,Val-de-Marne,Île-de-France,48.731,2.448
+Villefranche-sur-Saône,36172,Rhône,Auvergne-Rhône-Alpes,45.989,4.715
+Saint-Leu,36163,La Réunion,La Réunion,-21.166,55.287
+Châtenay-Malabry,35825,Hauts-de-Seine,Île-de-France,48.767,2.278
+Saint-Chamond,35646,Loire,Auvergne-Rhône-Alpes,45.476,4.513
+Sainte-Geneviève-des-Bois,35438,Essonne,Île-de-France,48.641,2.327
+Roanne,35409,Loire,Auvergne-Rhône-Alpes,46.034,4.073
+Le Perreux-sur-Marne,35260,Val-de-Marne,Île-de-France,48.841,2.508
+Mâcon,35177,Saône-et-Loire,Bourgogne-Franche-Comté,46.303,4.833
+Auxerre,35097,Yonne,Bourgogne-Franche-Comté,47.796,3.57
+Schiltigheim,34708,Bas-Rhin,Grand Est,48.605,7.749
+Trappes,34689,Yvelines,Île-de-France,48.776,1.999
+Les Mureaux,34632,Yvelines,Île-de-France,48.994,1.909
+Houilles,33983,Yvelines,Île-de-France,48.923,2.186
+Le Port,33969,La Réunion,La Réunion,-20.935,55.29
+Marignane,33692,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,43.417,5.216
+Romans-sur-Isère,33464,Drôme,Auvergne-Rhône-Alpes,45.045,5.052
+Villiers-sur-Marne,33162,Val-de-Marne,Île-de-France,48.826,2.541
+Montluçon,33147,Allier,Auvergne-Rhône-Alpes,46.34,2.607
+Nevers,33085,Nièvre,Bourgogne-Franche-Comté,46.988,3.158
+Lens,32920,Pas-de-Calais,Hauts-de-France,50.429,2.832
+Thiais,32918,Val-de-Marne,Île-de-France,48.764,2.391
+Saint-Médard-en-Jalles,32910,Gironde,Nouvelle-Aquitaine,44.896,-0.717
+Agen,32801,Lot-et-Garonne,Nouvelle-Aquitaine,44.203,0.616
+Montigny-le-Bretonneux,32465,Yvelines,Île-de-France,48.77,2.038
+Nogent-sur-Marne,32455,Val-de-Marne,Île-de-France,48.839,2.492
+Aix-les-Bains,32406,Savoie,Auvergne-Rhône-Alpes,45.689,5.915
+Épinal,32251,Vosges,Grand Est,48.175,6.45
+Saint-Laurent-du-Var,32172,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,43.675,7.192
+Koungou,32156,Mayotte,Mayotte,-12.733,45.204
+Pontoise,31970,Val-d'Oise,Île-de-France,49.051,2.101
+Bègles,31831,Gironde,Nouvelle-Aquitaine,44.808,-0.544
+Plaisir,31811,Yvelines,Île-de-France,48.817,1.947
+Herblay-sur-Seine,31779,Val-d'Oise,Île-de-France,48.99,2.165
+Vienne,31778,Isère,Auvergne-Rhône-Alpes,45.526,4.875
+Carpentras,31619,Vaucluse,Provence-Alpes-Côte d'Azur,44.056,5.049
+Mont-de-Marsan,31592,Landes,Nouvelle-Aquitaine,43.891,-0.501
+Dreux,31543,Eure-et-Loir,Centre-Val de Loire,48.736,1.371
+Vigneux-sur-Seine,31466,Essonne,Île-de-France,48.7,2.417
+Rillieux-la-Pape,31389,Rhône,Auvergne-Rhône-Alpes,45.819,4.898
+Goussainville,31301,Val-d'Oise,Île-de-France,49.032,2.473
+Ris-Orangis,31189,Essonne,Île-de-France,48.654,2.416
+L'Haÿ-les-Roses,31188,Val-de-Marne,Île-de-France,48.779,2.338
+Savigny-le-Temple,31148,Seine-et-Marne,Île-de-France,48.596,2.581
+Cambrai,31134,Nord,Hauts-de-France,50.176,3.235
+Cachan,31103,Val-de-Marne,Île-de-France,48.795,2.334
+Châtellerault,31003,Vienne,Nouvelle-Aquitaine,46.818,0.547
+Baie-Mahault,30924,Guadeloupe,Guadeloupe,16.268,-61.587
+Viry-Châtillon,30838,Essonne,Île-de-France,48.671,2.375
+Le Chesnay-Rocquencourt,30689,Yvelines,Île-de-France,48.826,2.125
+Menton,30604,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,43.776,7.503
+Chatou,30598,Yvelines,Île-de-France,48.89,2.158
+Malakoff,30557,Hauts-de-Seine,Île-de-France,48.821,2.302
+La Garenne-Colombes,30197,Hauts-de-Seine,Île-de-France,48.907,2.247
+Tournefeuille,30168,Haute-Garonne,Occitanie,43.583,1.347
+Bourgoin-Jallieu,30151,Isère,Auvergne-Rhône-Alpes,45.594,5.277
+Draveil,30098,Essonne,Île-de-France,48.682,2.405
+Liévin,30063,Pas-de-Calais,Hauts-de-France,50.421,2.785
+Villiers-le-Bel,30053,Val-d'Oise,Île-de-France,49.008,2.388
+Vandœuvre-lès-Nancy,29942,Meurthe-et-Moselle,Grand Est,48.66,6.173
+Agde,29939,Hérault,Occitanie,43.313,3.478
+Décines-Charpieu,29877,Rhône,Auvergne-Rhône-Alpes,45.768,4.957
+Saint-Cloud,29855,Hauts-de-Seine,Île-de-France,48.844,2.219
+Villemomble,29795,Seine-Saint-Denis,Île-de-France,48.882,2.508
+Guyancourt,29778,Yvelines,Île-de-France,48.771,2.07
+Orange,29706,Vaucluse,Provence-Alpes-Côte d'Azur,44.138,4.807
+Fresnes,29528,Val-de-Marne,Île-de-France,48.755,2.322
+Saint-Étienne-du-Rouvray,29518,Seine-Maritime,Normandie,49.38,1.108
+Ermont,29489,Val-d'Oise,Île-de-France,48.992,2.259
+Clichy-sous-Bois,29354,Seine-Saint-Denis,Île-de-France,48.911,2.546
+Vallauris,29259,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,43.58,7.056
+Périgueux,29055,Dordogne,Nouvelle-Aquitaine,45.184,0.716
+Sotteville-lès-Rouen,29003,Seine-Maritime,Normandie,49.414,1.089
+Bois-Colombes,28909,Hauts-de-Seine,Île-de-France,48.914,2.268
+Le Plessis-Robinson,28848,Hauts-de-Seine,Île-de-France,48.782,2.262
+Charenton-le-Pont,28830,Val-de-Marne,Île-de-France,48.82,2.416
+Maubeuge,28767,Nord,Hauts-de-France,50.28,3.967
+Montfermeil,28703,Seine-Saint-Denis,Île-de-France,48.902,2.571
+Vanves,28622,Hauts-de-Seine,Île-de-France,48.821,2.29
+Saint-Sébastien-sur-Loire,28596,Loire-Atlantique,Pays de la Loire,47.206,-1.502
+Orvault,28534,Loire-Atlantique,Pays de la Loire,47.271,-1.624
+Dieppe,28496,Seine-Maritime,Normandie,49.923,1.078
+Soissons,28046,Aisne,Hauts-de-France,49.384,3.329
+Yerres,27906,Essonne,Île-de-France,48.717,2.488
+Illkirch-Graffenstaden,27872,Bas-Rhin,Grand Est,48.528,7.711
+Sucy-en-Brie,27764,Val-de-Marne,Île-de-France,48.771,2.524
+Le Gosier,27757,Guadeloupe,Guadeloupe,16.206,-61.492
+Rambouillet,27724,Yvelines,Île-de-France,48.645,1.82
+Remire-Montjoly,27723,Guyane,Guyane,4.905,-52.276
+Gonesse,27707,Val-d'Oise,Île-de-France,48.986,2.45
+Blagnac,27604,Haute-Garonne,Occitanie,43.635,1.398
+Taverny,27593,Val-d'Oise,Île-de-France,49.026,2.226
+La Teste-de-Buch,27566,Gironde,Nouvelle-Aquitaine,44.631,-1.149
+Bussy-Saint-Georges,27498,Seine-et-Marne,Île-de-France,48.844,2.698
+Champs-sur-Marne,27451,Seine-et-Marne,Île-de-France,48.853,2.603
+Limeil-Brévannes,27406,Val-de-Marne,Île-de-France,48.749,2.48
+Cormeilles-en-Parisis,27292,Val-d'Oise,Île-de-France,48.976,2.199
+Bergerac,27110,Dordogne,Nouvelle-Aquitaine,44.85,0.485
+Sens,27106,Yonne,Bourgogne-Franche-Comté,48.199,3.283
+Lambersart,27090,Nord,Hauts-de-France,50.647,3.021
+Armentières,26998,Nord,Hauts-de-France,50.687,2.882
+Gradignan,26952,Gironde,Nouvelle-Aquitaine,44.772,-0.608
+Villeparisis,26946,Seine-et-Marne,Île-de-France,48.94,2.617
+Sannois,26924,Val-d'Oise,Île-de-France,48.972,2.256
+Étampes,26857,Essonne,Île-de-France,48.435,2.161
+Grigny,26842,Essonne,Île-de-France,48.656,2.385
+Cenon,26834,Gironde,Nouvelle-Aquitaine,44.858,-0.531
+Brétigny-sur-Orge,26658,Essonne,Île-de-France,48.612,2.306
+Lunel,26623,Hérault,Occitanie,43.679,4.132
+La Garde,26476,Var,Provence-Alpes-Côte d'Azur,43.124,6.01
+Élancourt,26365,Yvelines,Île-de-France,48.768,1.949
+Saumur,26241,Maine-et-Loire,Pays de la Loire,47.26,-0.076
+Vertou,26227,Loire-Atlantique,Pays de la Loire,47.168,-1.473
+Aurillac,26214,Cantal,Auvergne-Rhône-Alpes,44.93,2.446
+Eaubonne,26211,Val-d'Oise,Île-de-France,48.991,2.28
+Biarritz,26206,Pyrénées-Atlantiques,Nouvelle-Aquitaine,43.483,-1.558
+Miramas,26203,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,43.58,5.001
+Muret,26079,Haute-Garonne,Occitanie,43.462,1.331
+Castelnau-le-Lez,26058,Hérault,Occitanie,43.633,3.898
+Villeneuve-la-Garenne,26021,Hauts-de-Seine,Île-de-France,48.936,2.333
+Les Ulis,25886,Essonne,Île-de-France,48.681,2.17
+Les Pavillons-sous-Bois,25804,Seine-Saint-Denis,Île-de-France,48.903,2.507
+Sèvremoine,25797,Maine-et-Loire,Pays de la Loire,47.124,-0.994
+Le Grand-Quevilly,25789,Seine-Maritime,Normandie,49.407,1.052
+Lormont,25769,Gironde,Nouvelle-Aquitaine,44.88,-0.523
+Hénin-Beaumont,25688,Pas-de-Calais,Hauts-de-France,50.419,2.947
+Brunoy,25643,Essonne,Île-de-France,48.698,2.504
+Cavaillon,25636,Vaucluse,Provence-Alpes-Côte d'Azur,43.836,5.038
+Saint-Ouen-l'Aumône,25578,Val-d'Oise,Île-de-France,49.044,2.106
+Sainte-Suzanne,25551,La Réunion,La Réunion,-20.906,55.608
+Alençon,25490,Orne,Normandie,48.43,0.082
+Saintes,25363,Charente-Maritime,Nouvelle-Aquitaine,45.744,-0.634
+Vernon,25290,Eure,Normandie,49.093,1.486
+Béthune,25224,Pas-de-Calais,Hauts-de-France,50.531,2.639
+Vichy,25115,Allier,Auvergne-Rhône-Alpes,46.124,3.428
+Le Bouscat,25081,Gironde,Nouvelle-Aquitaine,44.865,-0.6
+Vierzon,25068,Cher,Centre-Val de Loire,47.221,2.07
+Libourne,25036,Gironde,Nouvelle-Aquitaine,44.914,-0.245
+Eysines,24825,Gironde,Nouvelle-Aquitaine,44.886,-0.649
+Kourou,24824,Guyane,Guyane,5.158,-52.643
+Montbéliard,24672,Doubs,Bourgogne-Franche-Comté,47.51,6.798
+Petit-Bourg,24665,Guadeloupe,Guadeloupe,16.192,-61.59
+Orly,24658,Val-de-Marne,Île-de-France,48.743,2.401
+Laon,24220,Aisne,Hauts-de-France,49.565,3.621
+Frontignan,24136,Hérault,Occitanie,43.446,3.756
+Le Kremlin-Bicêtre,24110,Val-de-Marne,Île-de-France,48.812,2.357
+Couëron,24103,Loire-Atlantique,Pays de la Loire,47.212,-1.728
+Fontenay-aux-Roses,24070,Hauts-de-Seine,Île-de-France,48.791,2.286
+Montgeron,24022,Essonne,Île-de-France,48.704,2.461
+Beaupréau-en-Mauges,23989,Maine-et-Loire,Pays de la Loire,47.209,-0.982
+Rodez,23981,Aveyron,Occitanie,44.349,2.576
+Sainte-Anne,23973,Guadeloupe,Guadeloupe,16.226,-61.386
+Les Lilas,23843,Seine-Saint-Denis,Île-de-France,48.879,2.416
+Dole,23840,Jura,Bourgogne-Franche-Comté,47.091,5.489
+La Valette-du-Var,23719,Var,Provence-Alpes-Côte d'Azur,43.138,5.984
+Dammarie-les-Lys,23559,Seine-et-Marne,Île-de-France,48.515,2.635
+Olivet,23507,Loiret,Centre-Val de Loire,47.865,1.897
+Hérouville-Saint-Clair,23470,Calvados,Normandie,49.204,-0.334
+Rochefort,23460,Charente-Maritime,Nouvelle-Aquitaine,45.937,-0.962
+Combs-la-Ville,23350,Seine-et-Marne,Île-de-France,48.665,2.565
+Lanester,23263,Morbihan,Bretagne,47.764,-3.347
+Roissy-en-Brie,23229,Seine-et-Marne,Île-de-France,48.791,2.654
+Tassin-la-Demi-Lune,23200,Rhône,Auvergne-Rhône-Alpes,45.761,4.777
+Saint-Jean-de-Braye,23147,Loiret,Centre-Val de Loire,47.912,1.971
+Deuil-la-Barre,23099,Val-d'Oise,Île-de-France,48.975,2.328
+Maisons-Laffitte,23093,Yvelines,Île-de-France,48.946,2.145
+Le Moule,23014,Guadeloupe,Guadeloupe,16.331,-61.344
+Vélizy-Villacoublay,23011,Yvelines,Île-de-France,48.783,2.191
+Challans,22943,Vendée,Pays de la Loire,46.845,-1.879
+Saint-Dizier,22858,Haute-Marne,Grand Est,48.638,4.948
+Torcy,22810,Seine-et-Marne,Île-de-France,48.849,2.652
+Saint-Louis,22805,Haut-Rhin,Grand Est,47.586,7.561
+Manosque,22718,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,43.834,5.782
+Loos,22567,Nord,Hauts-de-France,50.615,3.015
+Gif-sur-Yvette,22544,Essonne,Île-de-France,48.702,2.134
+Les Pennes-Mirabeau,22537,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,43.4,5.34
+Oyonnax,22480,Ain,Auvergne-Rhône-Alpes,46.258,5.656
+Montigny-lès-Cormeilles,22457,Val-d'Oise,Île-de-France,48.988,2.188
+Auch,22428,Gers,Occitanie,43.647,0.583
+Abbeville,22395,Somme,Hauts-de-France,50.106,1.834
+Villeneuve-sur-Lot,22350,Lot-et-Garonne,Nouvelle-Aquitaine,44.41,0.706
+Mantes-la-Ville,22332,Yvelines,Île-de-France,48.978,1.714
+Sèvres,22303,Hauts-de-Seine,Île-de-France,48.825,2.213
+Montereau-Fault-Yonne,22279,Seine-et-Marne,Île-de-France,48.385,2.956
+Achères,22241,Yvelines,Île-de-France,48.961,2.07
+Le Petit-Quevilly,22208,Seine-Maritime,Normandie,49.43,1.053
+Arcueil,22200,Val-de-Marne,Île-de-France,48.806,2.337
+Épernay,22174,Marne,Grand Est,49.044,3.959
+Gujan-Mestras,22153,Gironde,Nouvelle-Aquitaine,44.636,-1.071
+Dax,22109,Landes,Nouvelle-Aquitaine,43.709,-1.052
+Millau,22044,Aveyron,Occitanie,44.101,3.078
+Fontaine,22020,Isère,Auvergne-Rhône-Alpes,45.192,5.688
+Chemillé-en-Anjou,21999,Maine-et-Loire,Pays de la Loire,47.215,-0.733
+Longjumeau,21996,Essonne,Île-de-France,48.694,2.296
+Neuilly-Plaisance,21941,Seine-Saint-Denis,Île-de-France,48.861,2.506
+Hazebrouck,21912,Nord,Hauts-de-France,50.723,2.537
+Nogent-sur-Oise,21907,Oise,Hauts-de-France,49.275,2.467
+Voiron,21847,Isère,Auvergne-Rhône-Alpes,45.363,5.592
+Fleury-les-Aubrais,21804,Loiret,Centre-Val de Loire,47.931,1.921
+La Madeleine,21790,Nord,Hauts-de-France,50.654,3.074
+Saint-Michel-sur-Orge,21776,Essonne,Île-de-France,48.63,2.303
+Montmorency,21763,Val-d'Oise,Île-de-France,48.99,2.321
+Montigny-lès-Metz,21718,Moselle,Grand Est,49.1,6.153
+Sainte-Foy-lès-Lyon,21692,Rhône,Auvergne-Rhône-Alpes,45.736,4.8
+Morsang-sur-Orge,21667,Essonne,Île-de-France,48.662,2.346
+Mandelieu-la-Napoule,21640,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,43.543,6.932
+Gardanne,21597,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,43.456,5.471
+Le Robert,21553,Martinique,Martinique,14.678,-60.939
+Lagny-sur-Marne,21461,Seine-et-Marne,Île-de-France,48.878,2.706
+Allauch,21443,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,43.336,5.482
+Bruay-la-Buissière,21424,Pas-de-Calais,Hauts-de-France,50.482,2.546
+Givors,21379,Rhône,Auvergne-Rhône-Alpes,45.582,4.774
+Saint-Gratien,21336,Val-d'Oise,Île-de-France,48.971,2.283
+Saint-Cyr-l'École,21268,Yvelines,Île-de-France,48.8,2.067
+Ozoir-la-Ferrière,21238,Seine-et-Marne,Île-de-France,48.762,2.672
+Saint-Genis-Laval,21212,Rhône,Auvergne-Rhône-Alpes,45.698,4.794
+Montaigu-Vendée,21134,Vendée,Pays de la Loire,46.974,-1.314
+Le Plessis-Trévise,21112,Val-de-Marne,Île-de-France,48.809,2.573
+Mons-en-Barœul,21105,Nord,Hauts-de-France,50.643,3.11
+Plaisance-du-Touch,21079,Haute-Garonne,Occitanie,43.564,1.294
+Saint-Mandé,21071,Val-de-Marne,Île-de-France,48.843,2.419
+Bourg-la-Reine,21019,Hauts-de-Seine,Île-de-France,48.779,2.316
+Villeneuve-le-Roi,21000,Val-de-Marne,Île-de-France,48.735,2.408
+Carquefou,20921,Loire-Atlantique,Pays de la Loire,47.299,-1.493
+Sceaux,20884,Hauts-de-Seine,Île-de-France,48.78,2.288
+Concarneau,20845,Finistère,Bretagne,47.871,-3.919
+Chaumont,20827,Haute-Marne,Grand Est,48.111,5.14
+Lingolsheim,20826,Bas-Rhin,Grand Est,48.556,7.682
+Carrières-sous-Poissy,20825,Yvelines,Île-de-France,48.944,2.034
+Coudekerque-Branche,20787,Nord,Hauts-de-France,51.019,2.381
+Wasquehal,20726,Nord,Hauts-de-France,50.669,3.131
+Halluin,20715,Nord,Hauts-de-France,50.783,3.125
+La Chapelle-sur-Erdre,20690,Loire-Atlantique,Pays de la Loire,47.299,-1.551
+Denain,20665,Nord,Hauts-de-France,50.326,3.394
+Cugnaux,20662,Haute-Garonne,Occitanie,43.537,1.345
+Maurepas,20629,Yvelines,Île-de-France,48.762,1.945
+Chaville,20594,Hauts-de-Seine,Île-de-France,48.81,2.188
+Croix,20566,Nord,Hauts-de-France,50.68,3.156
+Bouguenais,20530,Loire-Atlantique,Pays de la Loire,47.179,-1.619
+Joinville-le-Pont,20525,Val-de-Marne,Île-de-France,48.818,2.467
+Le Creusot,20509,Saône-et-Loire,Bourgogne-Franche-Comté,46.805,4.428
+Forbach,20493,Moselle,Grand Est,49.186,6.896
+La Celle-Saint-Cloud,20460,Yvelines,Île-de-France,48.848,2.136
+Mitry-Mory,20456,Seine-et-Marne,Île-de-France,48.984,2.619
+Chilly-Mazarin,20443,Essonne,Île-de-France,48.702,2.312
+Beaune,20352,Côte-d'Or,Bourgogne-Franche-Comté,47.026,4.84
+Lannion,20315,Côtes-d'Armor,Bretagne,48.732,-3.459
+Fougères,20307,Ille-et-Vilaine,Bretagne,48.352,-1.204
+L'Isle-sur-la-Sorgue,20244,Vaucluse,Provence-Alpes-Côte d'Azur,43.92,5.051
+Grande-Synthe,20239,Nord,Hauts-de-France,51.014,2.302
+Mont-Saint-Aignan,20165,Seine-Maritime,Normandie,49.46,1.08
+Sarreguemines,20143,Moselle,Grand Est,49.11,7.07
+Cahors,20050,Lot,Occitanie,44.447,1.441
+Bruges,20020,Gironde,Nouvelle-Aquitaine,44.882,-0.613
