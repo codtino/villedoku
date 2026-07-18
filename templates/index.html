@@ -8,6 +8,8 @@
     <h1>Villedoku — Prototype</h1>
     <p>Tape au moins 3 lettres dans une case pour voir les villes possibles, puis clique sur une suggestion.</p>
 
+    <button id="bouton-refresh" class="bouton-refresh" onclick="location.href='/'">🔄 Nouvelle grille</button>
+
     <div class="jeu">
         <div class="grid">
             <div class="corner"></div>
@@ -22,6 +24,7 @@
                 <div class="cell-container">
                     <div class="carte" id="carte-{{ r }}-{{ c }}" data-gage-vert="{{ gage_grid[r][c].vert }}" data-gage-rouge="{{ gage_grid[r][c].rouge }}">
                         <div class="face-avant" id="avant-{{ r }}-{{ c }}">
+                            <div class="nombre-reponses">{{ grille_comptes[r][c] }} réponse{{ 's' if grille_comptes[r][c] > 1 else '' }}</div>
                             <input type="text" class="cell" id="cell-{{ r }}-{{ c }}" data-row="{{ r }}" data-col="{{ c }}" autocomplete="off">
                             <div class="suggestions" id="suggestions-{{ r }}-{{ c }}"></div>
                         </div>
