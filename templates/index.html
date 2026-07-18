@@ -1,0 +1,47 @@
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Villedoku - Prototype</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Villedoku — Prototype</h1>
+    <p>Tape au moins 3 lettres dans une case pour voir les villes possibles, puis clique sur une suggestion.</p>
+
+    <div class="jeu">
+        <div class="grid">
+            <div class="corner"></div>
+
+            {% for col_label in column_criteria %}
+            <div class="criteria criteria-col">{{ col_label }}</div>
+            {% endfor %}
+
+            {% for r in range(3) %}
+                <div class="criteria criteria-row">{{ row_criteria[r] }}</div>
+                {% for c in range(3) %}
+                <div class="cell-container">
+                    <div class="carte" id="carte-{{ r }}-{{ c }}" data-gage-vert="{{ gage_grid[r][c].vert }}" data-gage-rouge="{{ gage_grid[r][c].rouge }}">
+                        <div class="face-avant" id="avant-{{ r }}-{{ c }}">
+                            <input type="text" class="cell" id="cell-{{ r }}-{{ c }}" data-row="{{ r }}" data-col="{{ c }}" autocomplete="off">
+                            <div class="suggestions" id="suggestions-{{ r }}-{{ c }}"></div>
+                        </div>
+                        <div class="face-arriere" id="gage-{{ r }}-{{ c }}"></div>
+                    </div>
+                </div>
+                {% endfor %}
+            {% endfor %}
+        </div>
+
+        <div class="erreurs-conteneur">
+            <span class="erreurs-label">Erreurs :</span>
+            <div class="erreur-case" id="erreur-0"></div>
+            <div class="erreur-case" id="erreur-1"></div>
+            <div class="erreur-case" id="erreur-2"></div>
+        </div>
+
+        <div class="message-fin" id="message-fin"></div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
